@@ -1,0 +1,46 @@
+@startuml
+SplSubject <-- CurrentConditionsDisplay : 主题
+SplSubject <-- ForecastDisplay : 主题
+SplSubject <-- StatisticsDisplay : 主题
+SplObserver <-- SplSubject : 观察者
+
+SplSubject <|.. Subject
+Subject <|-- WeatherData
+
+interface SplSubject
+SplSubject : attach(SplObserver $observer)
+SplSubject : detach(SplObserver $observer)
+SplSubject : notify()
+
+class Subject
+Subject : attach(SplObserver $observer)
+Subject : detach(SplObserver $observer)
+Subject : notify()
+
+class WeatherData
+WeatherData : measurementsChanged()
+WeatherData : setMeasurements($temperature, $humidity, $pressure)
+
+SplObserver <|.. CurrentConditionsDisplay
+SplObserver <|.. ForecastDisplay
+SplObserver <|.. StatisticsDisplay
+DisplayElement <|.. CurrentConditionsDisplay
+DisplayElement <|.. ForecastDisplay
+DisplayElement <|.. StatisticsDisplay
+
+interface SplObserver
+SplObserver : update(SplSubject $subject)
+
+interface DisplayElement
+DisplayElement : display()
+
+class CurrentConditionsDisplay
+CurrentConditionsDisplay : update (SplSubject $subject)
+
+class ForecastDisplay
+ForecastDisplay : update (SplSubject $subject)
+
+class StatisticsDisplay
+StatisticsDisplay : update (SplSubject $subject)
+
+@enduml

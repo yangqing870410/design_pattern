@@ -1,0 +1,59 @@
+@startuml
+
+FlyBehaviour <|.. FlyNoWay
+FlyBehaviour <|.. FlyWithWings
+
+interface FlyBehaviour
+FlyBehaviour : fly()
+
+class FlyNoWay
+FlyNoWay : fly()
+
+class FlyWithWings
+FlyWithWings : fly()
+
+CryBehaviour <|.. CryMute
+CryBehaviour <|.. CryQuack
+CryBehaviour <|.. CrySqueak
+
+interface CryBehaviour
+CryBehaviour : cry()
+
+class CryMute
+CryMute : cry()
+
+class CryQuack
+CryQuack : cry()
+
+class CrySqueak
+CrySqueak : cry()
+
+DuckAbstract <|-- DecoyDuck
+DuckAbstract <|-- MallardDuck
+DuckAbstract <|-- RedheadDuck
+DuckAbstract <|-- RubberDuck
+CryBehaviour <-- DuckAbstract
+FlyBehaviour <-- DuckAbstract
+
+abstract class DuckAbstract
+DuckAbstract : CryBehaviour $_cryBehaviour
+DuckAbstract : FlyBehaviour $_flyBehaviour
+DuckAbstract : display()
+DuckAbstract : performCry()
+DuckAbstract : performFly()
+DuckAbstract : setCryBehaviour()
+DuckAbstract : setFlyBehaviour()
+
+class DecoyDuck
+DecoyDuck : display()
+
+class MallardDuck
+MallardDuck : display()
+
+class RedheadDuck
+RedheadDuck : display()
+
+class RubberDuck
+RubberDuck : display()
+
+@enduml
