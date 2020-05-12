@@ -1,18 +1,56 @@
 @startuml
 
-abstract class Beverage
+Beverage <|-- DarkRoast
+Beverage <|-- Decaf
+Beverage <|-- Espresso
+Beverage <|-- HouseBlend
 
+Beverage <|-- CondimentDecorator
+CondimentDecorator <|-- Milk
+CondimentDecorator <|-- Mocha
+CondimentDecorator <|-- Soy
+CondimentDecorator <|-- Whip
+
+abstract class Beverage
+Beverage : getDescription()
+Beverage : setDescription()
+Beverage : cost()
 
 class DarkRoast
+DarkRoast : getDescription()
+DarkRoast : cost()
+
 class Decaf
+Decaf : getDescription()
+Decaf : cost()
+
 class Espresso
+Espresso : getDescription()
+Espresso : cost()
+
 class HouseBlend
+HouseBlend : getDescription()
+HouseBlend : cost()
 
 class CondimentDecorator
-class Milk
-class Mocha
-class Soy
-class Whip
+CondimentDecorator : $_beverage
+CondimentDecorator : getDescription()
+CondimentDecorator : cost()
 
+class Milk
+Milk : getDescription()
+Milk : cost()
+
+class Mocha
+Mocha : getDescription()
+Mocha : cost()
+
+class Soy
+Soy : getDescription()
+Soy : cost()
+
+class Whip
+Whip : getDescription()
+Whip : cost()
 
 @enduml

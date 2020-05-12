@@ -1,0 +1,89 @@
+@startuml
+
+NYStyleCheesePizza <-- NYStylePizzaStore
+NYStyleClamPizza <-- NYStylePizzaStore
+NYStylePepperoniPizza <-- NYStylePizzaStore
+NYStyleVeggiePizza <-- NYStylePizzaStore
+ChicagoStyleCheesePizza <-- ChicagoStylePizzaStore
+ChicagoStyleClamPizza <-- ChicagoStylePizzaStore
+ChicagoStylePepperoniPizza <-- ChicagoStylePizzaStore
+ChicagoStyleVeggiePizza <-- ChicagoStylePizzaStore
+
+abstract class PizzaStore
+PizzaStore : $_pizza
+PizzaStore : orderPizza()
+PizzaStore : protected createPizza()
+
+class NYStylePizzaStore
+NYStylePizzaStore : protected createPizza()
+
+class ChicagoStylePizzaStore
+ChicagoStylePizzaStore : protected createPizza()
+
+PizzaStore <|-- NYStylePizzaStore
+PizzaStore <|-- ChicagoStylePizzaStore
+
+abstract class Pizza
+Pizza : prepare()
+Pizza : bake()
+Pizza : cut()
+Pizza : box()
+
+Pizza <|-- NYStyleCheesePizza
+Pizza <|-- NYStyleClamPizza
+Pizza <|-- NYStylePepperoniPizza
+Pizza <|-- NYStyleVeggiePizza
+
+class NYStyleCheesePizza
+NYStyleCheesePizza : prepare()
+NYStyleCheesePizza : bake()
+NYStyleCheesePizza : cut()
+NYStyleCheesePizza : box()
+
+class NYStyleClamPizza
+NYStyleClamPizza : prepare()
+NYStyleClamPizza : bake()
+NYStyleClamPizza : cut()
+NYStyleClamPizza : box()
+
+class NYStylePepperoniPizza
+NYStylePepperoniPizza : prepare()
+NYStylePepperoniPizza : bake()
+NYStylePepperoniPizza : cut()
+NYStylePepperoniPizza : box()
+
+class NYStyleVeggiePizza
+NYStyleVeggiePizza : prepare()
+NYStyleVeggiePizza : bake()
+NYStyleVeggiePizza : cut()
+NYStyleVeggiePizza : box()
+
+Pizza <|-- ChicagoStyleCheesePizza
+Pizza <|-- ChicagoStyleClamPizza
+Pizza <|-- ChicagoStylePepperoniPizza
+Pizza <|-- ChicagoStyleVeggiePizza
+
+class ChicagoStyleCheesePizza
+ChicagoStyleCheesePizza : prepare()
+ChicagoStyleCheesePizza : bake()
+ChicagoStyleCheesePizza : cut()
+ChicagoStyleCheesePizza : box()
+
+class ChicagoStyleClamPizza
+ChicagoStyleClamPizza : prepare()
+ChicagoStyleClamPizza : bake()
+ChicagoStyleClamPizza : cut()
+ChicagoStyleClamPizza : box()
+
+class ChicagoStylePepperoniPizza
+ChicagoStylePepperoniPizza : prepare()
+ChicagoStylePepperoniPizza : bake()
+ChicagoStylePepperoniPizza : cut()
+ChicagoStylePepperoniPizza : box()
+
+class ChicagoStyleVeggiePizza
+ChicagoStyleVeggiePizza : prepare()
+ChicagoStyleVeggiePizza : bake()
+ChicagoStyleVeggiePizza : cut()
+ChicagoStyleVeggiePizza : box()
+@enduml

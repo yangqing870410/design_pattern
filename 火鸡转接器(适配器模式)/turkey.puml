@@ -1,0 +1,27 @@
+@startuml
+Duck <|.. TurkeyAdapter
+Duck <|.. MallardDuck
+Turkey <|.. WildTurkey
+
+Turkey <-- TurkeyAdapter
+
+class TurkeyAdapter
+TurkeyAdapter : quack()
+TurkeyAdapter : fly()
+
+interface Duck
+Duck : quack()
+Duck : fly()
+
+class MallardDuck
+MallardDuck : quack()
+MallardDuck : fly()
+
+interface Turkey
+Turkey : gobble()
+Turkey : fly()
+
+class WildTurkey
+WildTurkey : gobble()
+WildTurkey : fly()
+@enduml
