@@ -1,0 +1,64 @@
+@startuml
+
+class NYStylePizzaStore
+NYStylePizzaStore : createPizza()
+
+NYPizzaIngredientFactory <-- NYStylePizzaStore
+
+class NYStyleClamPizza
+class NYStyleClamPizza
+NYStyleCheesePizza : $_ingredientFactory
+NYStyleCheesePizza : prepare()
+NYStyleClamPizza : $_ingredientFactory
+NYStyleClamPizza : prepare()
+
+PizzaIngredientFactory <-- NYStyleCheesePizza
+PizzaIngredientFactory <-- NYStyleClamPizza
+NYStyleCheesePizza <-- NYStylePizzaStore
+NYStyleClamPizza <-- NYStylePizzaStore
+
+interface PizzaIngredientFactory
+PizzaIngredientFactory : createDough()
+PizzaIngredientFactory : createSauce()
+PizzaIngredientFactory : createCheese()
+PizzaIngredientFactory : createVeggies()
+PizzaIngredientFactory : createPepperoni()
+PizzaIngredientFactory : createClam()
+
+PizzaIngredientFactory <|.. NYPizzaIngredientFactory
+class NYPizzaIngredientFactory
+NYPizzaIngredientFactory : createDough()
+NYPizzaIngredientFactory : createSauce()
+NYPizzaIngredientFactory : createCheese()
+NYPizzaIngredientFactory : createVeggies()
+NYPizzaIngredientFactory : createPepperoni()
+NYPizzaIngredientFactory : createClam()
+
+ThinCrustDough <-- NYPizzaIngredientFactory
+MarinaraSauce <-- NYPizzaIngredientFactory
+ReggianoCheese <-- NYPizzaIngredientFactory
+Garlic <-- NYPizzaIngredientFactory
+SlicedPepperoni <-- NYPizzaIngredientFactory
+FreshClams <-- NYPizzaIngredientFactory
+
+class ThinCrustDough
+Dough <|.. ThinCrustDough
+
+class MarinaraSauce
+Sauce <|.. MarinaraSauce
+
+class ReggianoCheese
+Cheese <|.. ReggianoCheese
+
+class Garlic
+Veggies <|.. Garlic
+
+class SlicedPepperoni
+Pepperoni <|.. SlicedPepperoni
+
+class FreshClams
+Clams <|.. FreshClams
+
+
+
+@enduml

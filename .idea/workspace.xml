@@ -6,44 +6,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bd1a7aa-235f-4653-ab21-6a0f08eaf84e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStyleCheesePizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStyleClamPizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStylePepperoniPizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStylePizzaStore.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStyleVeggiePizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/Main.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStyleCheesePizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStyleClamPizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStylePepperoniPizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStylePizzaStore.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStyleVeggiePizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/Pizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/PizzaStore.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/factory.puml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/CheesePizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/ClamPizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/Main.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/PepperoniPizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/Pizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/PizzaStore.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/SimplePizzaFactory.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/VeggiePizza.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/factory.puml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/火鸡转接器(适配器模式)/Duck.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/火鸡转接器(适配器模式)/Main.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/火鸡转接器(适配器模式)/MallardDuck.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/火鸡转接器(适配器模式)/Turkey.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/火鸡转接器(适配器模式)/TurkeyAdapter.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/火鸡转接器(适配器模式)/WildTurkey.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/火鸡转接器(适配器模式)/turkey.puml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/项目应用/项目1/屏蔽处理过滤1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/项目应用/项目1/屏蔽处理过滤2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/项目应用/项目1/屏蔽处理过滤3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/项目应用/项目1/推荐用户分配规则（前端）.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/项目应用/项目1/销售业务流程图.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/人员筛选(过滤器模式)/Main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/人员筛选(过滤器模式)/Person.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Cheese.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Clam.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Dough.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/FreshClams.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Garlic.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Main.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/MarinaraSauce.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYPizzaIngredientFactory.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleCheesePizza.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleClamPizza.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStylePizzaStore.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Pepperoni.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Pizza.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/PizzaIngredientFactory.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/PizzaStore.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ReggianoCheese.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Sauce.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/SlicedPepperoni.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ThinCrustDough.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Veggies.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/factory.puml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/beverage.puml" afterPath="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/beverage.puml" />
-      <change beforePath="$PROJECT_DIR$/设计模式.xmind" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,101 +52,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="factory.puml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/factory.puml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NYStylePizzaStore.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStylePizzaStore.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="factory.puml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/factory.puml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NYStyleClamPizza.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleClamPizza.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Main.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/Main.php">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="116">
+              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="turkey.puml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/turkey.puml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="duck.puml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/鸭子游戏(策略模式)/duck.puml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Duck.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/Duck.php">
+      <file leaf-file-name="Veggies.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Veggies.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="232">
-              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="26" />
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DuckAbstract.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/鸭子游戏(策略模式)/DuckAbstract.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MallardDuck.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/鸭子游戏(策略模式)/MallardDuck.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MallardDuck.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/MallardDuck.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Turkey.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/Turkey.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WildTurkey.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/WildTurkey.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TurkeyAdapter.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/TurkeyAdapter.php">
+      <file leaf-file-name="PizzaIngredientFactory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/PizzaIngredientFactory.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="464">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NYStyleCheesePizza.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleCheesePizza.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NYPizzaIngredientFactory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYPizzaIngredientFactory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FreshClams.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/FreshClams.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -171,7 +157,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>$_flyBehaviour</find>
+      <find>Cheese</find>
     </findStrings>
+    <dirStrings>
+      <dir>E:\学习\design_pattern\比萨店(工厂模式)\抽象工厂</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -179,26 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/气象监测(观察者模式)/Subject.php" />
-        <option value="$PROJECT_DIR$/气象监测(观察者模式)/CurrentConditionsDisplay.php" />
-        <option value="$PROJECT_DIR$/气象监测(观察者模式)/ForecastDisplay.php" />
-        <option value="$PROJECT_DIR$/气象监测(观察者模式)/StatisticsDisplay.php" />
-        <option value="$PROJECT_DIR$/鸭子游戏(策略模式)/duck.puml" />
-        <option value="$PROJECT_DIR$/气象监测(观察者模式)/weather.puml" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Beverage.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/CondimentDecorator.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/DarkRoast.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Decaf.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Espresso.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/HouseBlend.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Mocha.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Whip.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Soy.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Milk.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Main.php" />
-        <option value="$PROJECT_DIR$/星巴兹咖啡(装饰模式)/beverage.puml" />
-        <option value="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/SimplePizzaFactory.php" />
-        <option value="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/PizzaStore.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/Main.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ClamPizza.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/PepperoniPizza.php" />
@@ -207,19 +177,13 @@
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/CheesePizza.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/PepperoniPizza.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/factory.puml" />
-        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Pizza.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStylePepperoniPizza.php" />
-        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleClamPizza.php" />
-        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleCheesePizza.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStyleVeggiePizza.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStylePepperoniPizza.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStyleClamPizza.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/PizzaStore.php" />
-        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStylePizzaStore.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStylePizzaStore.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStyleCheesePizza.php" />
-        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Main.php" />
-        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/factory.puml" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/VeggiePizza.php" />
         <option value="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/ClamPizza.php" />
         <option value="$PROJECT_DIR$/遥控器(命令模式)/Main.php" />
@@ -230,6 +194,32 @@
         <option value="$PROJECT_DIR$/火鸡转接器(适配器模式)/MallardDuck.php" />
         <option value="$PROJECT_DIR$/火鸡转接器(适配器模式)/Main.php" />
         <option value="$PROJECT_DIR$/火鸡转接器(适配器模式)/turkey.puml" />
+        <option value="$PROJECT_DIR$/家庭影院(外观模式)/Main.php" />
+        <option value="$PROJECT_DIR$/鸭子游戏(策略模式)/Main.php" />
+        <option value="$PROJECT_DIR$/人员筛选(过滤器模式)/Main.php" />
+        <option value="$PROJECT_DIR$/人员筛选(过滤器模式)/Person.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/PizzaStore.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/PizzaStore.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Dough.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/PizzaIngredientFactory.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Sauce.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Cheese.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Veggies.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Pepperoni.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Clam.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ThinCrustDough.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Garlic.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ReggianoCheese.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/MarinaraSauce.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/SlicedPepperoni.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYPizzaIngredientFactory.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/FreshClams.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Pizza.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleClamPizza.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleCheesePizza.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStylePizzaStore.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Main.php" />
+        <option value="$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/factory.puml" />
       </list>
     </option>
   </component>
@@ -241,8 +231,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1009" />
-    <option name="y" value="177" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
     <option name="width" value="3862" />
     <option name="height" value="2122" />
   </component>
@@ -261,14 +251,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design_pattern" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design_pattern" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="气象监测(观察者模式)" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -282,18 +277,18 @@
     <property name="last_opened_file_path" value="E:/code/hawocrm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\学习\design_pattern\比萨店(工厂模式)\抽象工厂" />
+      <recent name="E:\学习\design_pattern\比萨店(工厂模式)" />
+      <recent name="E:\学习\design_pattern\火鸡转接器(适配器模式)" />
+      <recent name="E:\学习\design_pattern\项目应用\项目1" />
+      <recent name="E:\学习\design_pattern\比萨店(工厂模式)\简单工厂" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\学习\design_pattern\项目应用\项目1" />
       <recent name="E:\学习\设计模式代码\鸭子游戏(策略模式)" />
       <recent name="E:\学习\设计模式代码\鸭子游戏\duck" />
       <recent name="E:\学习\设计模式代码\鸭子游戏" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\学习\design_pattern\火鸡转接器(适配器模式)" />
-      <recent name="E:\学习\design_pattern\项目应用\项目1" />
-      <recent name="E:\学习\design_pattern\比萨店(工厂模式)\抽象工厂" />
-      <recent name="E:\学习\design_pattern\比萨店(工厂模式)\简单工厂" />
-      <recent name="E:\学习\design_pattern\项目应用" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,12 +341,13 @@
       <workItem from="1588643446074" duration="1945000" />
       <workItem from="1589111029026" duration="1770000" />
       <workItem from="1589209259875" duration="642000" />
-      <workItem from="1589294631088" duration="2728000" />
+      <workItem from="1589294631088" duration="9443000" />
+      <workItem from="1589703548339" duration="8384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43542000" />
+    <option name="totallyTimeSpent" value="58641000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,26 +360,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2122" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49787912" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18796395" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4578473" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33003128" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19008483" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33003128" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -398,136 +393,35 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/HouseBlend.php">
+    <entry file="file://$PROJECT_DIR$/人员筛选(过滤器模式)/Main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="29">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/DarkRoast.php">
+    <entry file="file://$PROJECT_DIR$/人员筛选(过滤器模式)/Person.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="203">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Whip.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Espresso.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Mocha.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Decaf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Milk.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Soy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Beverage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="22" column="37" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/CondimentDecorator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/Main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStylePepperoniPizza.php">
+    <entry file="file://$PROJECT_DIR$/鸭子游戏(策略模式)/duck.puml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStyleClamPizza.php">
+    <entry file="file://$PROJECT_DIR$/气象监测(观察者模式)/weather.puml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStyleCheesePizza.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStyleVeggiePizza.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/factory.puml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/Main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/SimplePizzaFactory.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStylePepperoniPizza.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -535,48 +429,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStyleCheesePizza.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStylePizzaStore.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/PizzaStore.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/PepperoniPizza.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/CheesePizza.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/ClamPizza.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -584,13 +437,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/Pizza.php">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStylePepperoniPizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStyleClamPizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStyleCheesePizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/SimplePizzaFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/PepperoniPizza.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -598,155 +493,310 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="35" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/PizzaStore.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStylePepperoniPizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStyleVeggiePizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStylePepperoniPizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStyleCheesePizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStyleClamPizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStylePizzaStore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ChicagoStyleVeggiePizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Garlic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleVeggiePizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Pepperoni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStylePepperoniPizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/SlicedPepperoni.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/ChicagoStylePizzaStore.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/简单工厂/VeggiePizza.php">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/Main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        <state relative-caret-position="203">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/factory.puml">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStyleCheesePizza.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="290">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/NYStylePizzaStore.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/Pizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/PizzaStore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Pizza.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
-          <caret line="22" column="54" lean-forward="true" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/Main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/遥控器(命令模式)/Main.php" />
-    <entry file="file://$PROJECT_DIR$/星巴兹咖啡(装饰模式)/beverage.puml">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/PizzaStore.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="957">
-          <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        <state relative-caret-position="908">
+          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/项目应用/项目1/推荐用户分配规则（前端）.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/项目应用/项目1/屏蔽处理过滤3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/项目应用/项目1/屏蔽处理过滤2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/项目应用/项目1/屏蔽处理过滤1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/项目应用/项目1/销售业务流程图.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/鸭子游戏(策略模式)/DuckAbstract.php">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Sauce.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="203">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/鸭子游戏(策略模式)/MallardDuck.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/Main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/MallardDuck.php">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Dough.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="17" />
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/Duck.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/Turkey.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/WildTurkey.php">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ThinCrustDough.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="16" />
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/鸭子游戏(策略模式)/duck.puml">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Cheese.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="203">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/TurkeyAdapter.php">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Clam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/ReggianoCheese.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/MarinaraSauce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Veggies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/PizzaIngredientFactory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/火鸡转接器(适配器模式)/turkey.puml">
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/Main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="116">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleClamPizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/FreshClams.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="24" lean-forward="false" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStylePizzaStore.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/工厂方法/factory.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYPizzaIngredientFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="38" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/NYStyleCheesePizza.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/比萨店(工厂模式)/抽象工厂/factory.puml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
